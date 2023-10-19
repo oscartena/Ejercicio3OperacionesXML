@@ -1,0 +1,18 @@
+<atletas>
+  <atleta nombre="Lucia">
+    <pruebas>
+      <prueba>salto altura</prueba>
+      <prueba>100 metros lisos</prueba>
+    </pruebas>
+    <edad>24</edad>
+    <pais>España</pais>
+  </atleta>
+  <atleta nombre="Marta">
+    <pruebas>
+      <prueba>natacion</prueba>
+      <prueba>100 metros lisos</prueba>
+    </pruebas>
+    <edad>28</edad>
+    <pais>Nigeria</pais>
+  </atleta>
+</atletas>
